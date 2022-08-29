@@ -1,2 +1,0 @@
-# Hate
-Theme 
